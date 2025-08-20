@@ -3,7 +3,7 @@
 1. Python basic connect with database MySql  (CRUD)
 <img src="PythonWithMySQL/img.png" style="width: 100px; height: 100px">
 
-2. my laravel project i do from my university using database PostgreSQL: 
+2. my laravel project i do from my university using database PostgreSQL \n
        + Student System (CRUD)
     <img src="Laravel/s1.png" style="width: 100px; height: 100px">
     <img src="Laravel/s1.png" style="width: 100px; height: 100px">
