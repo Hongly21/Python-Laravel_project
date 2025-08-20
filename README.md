@@ -4,7 +4,7 @@
 <img src="PythonWithMySQL/img.png" style="width: 100px; height: 100px">
 
 2. my laravel project i do from my university using database PostgreSQL
-
+     + Student System (CRUD) 
    <table>
      <thead>
        <th><img src="Laravel/s1.png" style="width: 100px; height: 100px">
@@ -15,9 +15,7 @@
        </th>
      </thead>
    </table>
-       + Student System (CRUD) 
-    <img src="Laravel/s1.png" style="width: 100px; height: 100px">
-    <img src="Laravel/s1.png" style="width: 100px; height: 100px">
+     
        + Customer Appoitment Booking
 
      <img src="Laravel/a1.png" style="width: 100px; height: 100px">
