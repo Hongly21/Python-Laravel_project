@@ -16,11 +16,17 @@
      </thead>
    </table>
      
-       + Customer Appoitment Booking
-
-     <img src="Laravel/a1.png" style="width: 100px; height: 100px">
-    <img src="Laravel/a1.png" style="width: 100px; height: 100px">
-    <img src="Laravel/a1.png" style="width: 100px; height: 100px">
+   + Customer Appoitment Booking
+     <table>
+     <thead>
+       <th><img src="Laravel/a1.png" style="width: 100px; height: 100px">
+       </th>
+        <th><img src="Laravel/a2.png" style="width: 100px; height: 100px">
+       </th>
+        <th><img src="Laravel/a3.png" style="width: 100px; height: 100px">
+       </th>
+     </thead>
+   </table>
     
     
        
